@@ -59,13 +59,13 @@ Before starting development, you need to know which branch to base your modifica
 
 ```sh
 # Switch to the desired branch
-git switch master
+git checkout master
 
 # Pull down any upstream changes
 git pull
 
 # Create a new branch to work on
-git switch --create patch/1234-name-issue
+git checkout -b <your branch>
 ```
 
 Commit your changes, then push the branch to your fork with `git push -u fork` and open a pull request on [the Tp-git repository](https://github.com/Lbouzar/Tp-git/) following the template provided.
