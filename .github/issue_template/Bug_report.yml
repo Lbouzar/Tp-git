@@ -1,5 +1,6 @@
 ---
-layout: issue_template
+layout: issue_template/issue_template
+title: Bug Report
 ---
 name: "Bug Report"
 description: Create a new ticket for a bug.
