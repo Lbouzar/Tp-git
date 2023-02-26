@@ -25,8 +25,8 @@ Add git remote controls :
 
 ```sh
 # Using HTTPS
-git remote add fork https://github.com/YOUR-USERNAME/Tp-git
-git remote add upstream https://github.com/Lbouzar/Tp-git
+git remote add fork https://github.com/YOUR-USERNAME/Tp-git.git
+git remote add upstream https://github.com/Lbouzar/Tp-git.git
 
 
 # Using SSH
