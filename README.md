@@ -46,7 +46,7 @@ You should first, install the latest npm version. You can use the following code
 
 ## Usage
 
-This gitHub project is actually not useful. It just shows how I can initialize and configurate a git repository. 
+This gitHub project is an empty project (code speaking). It shows how I can initialize and configurate a git repository. 
 
 <!-- CONTRIBUTING -->
 ## Contributing
