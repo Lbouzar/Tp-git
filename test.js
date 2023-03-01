@@ -1,5 +1,4 @@
-function add(num2,num1) {
-  return num1 + num2;
-}
+const assert = require("assert");
+const sum = require("./app");
 
-console.log(add(2,3,4,5,4,6));
+assert.equal(sum(2, 3), 5);

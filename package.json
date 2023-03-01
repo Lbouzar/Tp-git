@@ -1,0 +1,24 @@
+{
+  "name": "tp-git",
+  "version": "1.0.0",
+  "description": "Github project for my exam",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbouzar/Tp-git.git"
+  },
+  "author": "Lyza",
+  "bugs": {
+    "url": "https://github.com/lbouzar/Tp-git/issues"
+  },
+  "homepage": "https://github.com/lbouzar/Tp-git#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "eslint": "^8.35.0",
+    "module": "^1.2.5",
+    "require": "^2.4.20"
+  }
+}
