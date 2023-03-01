@@ -1,2 +1,4 @@
-let a = 1;
-console.log("hello hello");
+function add(num1, num2) {
+  return num1 + num2;
+}
+console.log(add(2, 3, 4));
